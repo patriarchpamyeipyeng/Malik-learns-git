@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(234, 216, 231);
+}
+.container{
+    display: grid;
+    /* grid-gap: 2em; */
+    
+}
+
+.gowns{
+    /* grid-template-rows: 50rem 50px 50px 50px 50px 50px 50px ; */
+    grid-gap: 2em;
+}
